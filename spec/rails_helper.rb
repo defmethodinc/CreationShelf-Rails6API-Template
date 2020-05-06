@@ -61,4 +61,12 @@ RSpec.configure do |config|
   config.filter_rails_from_backtrace!
   # arbitrary gems may also be filtered via:
   # config.filter_gems_from_backtrace("gem name")
+  #
+  # FACTORY BOT
+  config.include FactoryBot::Syntax::Methods
+
+  # RENDERING JSON VIEWS
+  # (for controller testing responses utilizing a templating engine such as JBUILDER)
+  # uncomment following line:
+  # config.render_views = true
 end
