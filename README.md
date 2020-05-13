@@ -10,6 +10,16 @@ This API is meant to serve data to corresponding template clients:
 
 The term "CreationShelf" is meant to denote a place to put and store "Creations", a Creation being something a duck-type or generic model in a simlar vein to todos or widgets. A Creation is a thing. Users make Creations.
 
+## Using this Template
+Click the green `User this template` on the [repo's homepage](https://github.com/defmethodinc/CreationShelfTemplate) in Github.
+
+Then [rename the project](https://stackoverflow.com/questions/42326432/how-to-rename-a-rails-5-application).
+
+## Contributing/Adding to this Template
+This project is managed through Github projects [here](https://github.com/defmethodinc/CreationShelfTemplate/projects/1). Next prioritized items to do are in the "To Do" column.
+
+Find out more about general Github projects [here](https://help.github.com/en/github/managing-your-work-on-github/about-project-boards).
+
 ## Installation
 
  - clone this repo
