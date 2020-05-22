@@ -1,5 +1,5 @@
 # Rails 6/API/Postgresql/ActiveAdmin/Devise/RSpec
-This is a Def Method Inc. [Rails Resource](https://github.com/defmethodinc/def-method-resources/tree/master/resource-library/rails) and template project.
+This is a Def Method Inc. Rails6API template project.
 
 Ruby 2.7.0 - Rails6
 
